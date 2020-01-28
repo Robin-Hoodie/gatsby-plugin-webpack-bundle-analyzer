@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-webpack-bundle-analyzer",
+  "name": "@robinhoodie/gatsby-plugin-webpack-bundle-analyzer",
   "version": "1.1.0",
   "description": "A Gatsby plugin to help analyze your bundle content.",
   "scripts": {
@@ -22,7 +22,7 @@
     "analyzer",
     "webpack-bundle-analyzer"
   ],
-  "author": "Kennedy Rose <kennedy@escaladesports.com>",
+  "author": "Robin Hellemans <robin@oreon.io>",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.0.0-rc.1",
