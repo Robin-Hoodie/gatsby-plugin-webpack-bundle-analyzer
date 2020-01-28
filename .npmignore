@@ -1,3 +1,4 @@
 *.log
 yarn.lock
 src
+.idea

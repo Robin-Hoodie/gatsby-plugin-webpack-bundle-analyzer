@@ -9,10 +9,10 @@
     "travis": "opn https://travis-ci.org/escaladesports/gatsby-plugin-webpack-bundle-analyzer/branches"
   },
   "main": "index.js",
-  "homepage": "https://github.com/escaladesports/gatsby-plugin-webpack-bundle-analyzer",
+  "homepage": "https://github.com/Robin-Hoodie/gatsby-plugin-webpack-bundle-analyzer",
   "repository": {
     "type": "git",
-    "url": "https://github.com/escaladesports/gatsby-plugin-webpack-bundle-analyzer.git"
+    "url": "https://github.com/Robin-Hoodie/gatsby-plugin-webpack-bundle-analyzer"
   },
   "keywords": [
     "gatsby",
